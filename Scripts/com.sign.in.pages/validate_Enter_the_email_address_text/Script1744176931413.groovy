@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
-Enter_the_email_address_Text = Mobile.getText(findTestObject('Object Repository/IOS/Forgot_password_object_repository/XCUIElementTypeStaticText - Enter the email address associated with your NJ TRANSIT APP account and we will email instructions to reset your password'), 
+Enter_the_email_address_Text = Mobile.getText(findTestObject('Object Repository/IOS/Forgot_password_object_repository/XCUIElementTypeStaticText - Enter the email address associated with your NJ TRANSIT'), 
     0)
 
 println('Enter_the_email_address_Text : ' + Enter_the_email_address_Text)

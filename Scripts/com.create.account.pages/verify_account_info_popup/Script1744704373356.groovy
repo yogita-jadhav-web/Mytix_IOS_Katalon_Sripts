@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import test.data.MessageValidator as MessageValidator
 
-String actualMessage = Mobile.getText(findTestObject('IOS/Create_account_object_repository/XCUIElementTypeStaticText -  Please fill-out all of the required fields.  Passwords must contain   8 to 20 characters  One UPPERCASE letter  One number or numerical value  One of following special characters. ()_,.-'), 
+String actualMessage = Mobile.getText(findTestObject('IOS/Create_account_object_repository/XCUIElementTypeStaticText - Please fill-out all of the required fields'), 
     0)
 
 WebUI.comment('actualMessage: ' + actualMessage)

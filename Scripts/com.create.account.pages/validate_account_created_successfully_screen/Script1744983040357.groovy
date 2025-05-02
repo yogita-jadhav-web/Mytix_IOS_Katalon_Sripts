@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('com.create.account.pages/verify_Account Created
 
 WebUI.callTestCase(findTestCase('com.create.account.pages/verify_Green_check_mark_icon'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Congratulations_text = Mobile.getText(findTestObject('Object Repository/IOS/Create_account_object_repository/XCUIElementTypeStaticText - Congratulations Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help'), 
+Congratulations_text = Mobile.getText(findTestObject('Object Repository/IOS/Create_account_object_repository/XCUIElementTypeStaticText - Congratulations Your account has been created'), 
     0)
 
 println('Congratulationst : ' + Congratulations_text)

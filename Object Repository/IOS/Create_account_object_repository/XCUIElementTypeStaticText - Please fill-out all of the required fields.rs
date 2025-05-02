@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeStaticText -  Please fill-out all of the required fields.  Passwords must contain   8 to 20 characters  One UPPERCASE letter  One number or numerical value  One of following special characters. ()_,.-</name>
+   <name>XCUIElementTypeStaticText - Please fill-out all of the required fields</name>
    <tag></tag>
    <elementGuidId>117b8823-7d5c-433c-bc8a-d8da742316f8</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -118,16 +118,8 @@
          <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeAlert[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[2]</value>
       </entry>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeStaticText' AND enabled == 1 AND label == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' AND name == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' AND name == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-'</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' and @name = ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' and @value = ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-']</value>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
@@ -138,28 +130,33 @@
          <value>**/XCUIElementTypeStaticText[`enabled == 1 AND label == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' AND name == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' AND value == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-'`]</value>
       </entry>
       <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().enabled(true).index(1)</value>
+         <key>NAME</key>
+         <value> Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND enabled == 1 AND label == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' AND name == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' AND name == ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-'</value>
       </entry>
       <entry>
          <key>IMAGE</key>
-         <value></value>
       </entry>
       <entry>
          <key>ID</key>
          <value> Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-</value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value> Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' and @name = ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-' and @value = ' Please fill-out all of the required fields.  Passwords must contain:  • 8 to 20 characters • One UPPERCASE letter • One number or numerical value • One of following special characters. ~!@#$%^&amp;*()_+=|:&quot;&lt;,>.?/{}-']</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().enabled(true).index(1)</value>
       </entry>
       <entry>
-         <key>CLASS_NAME</key>
-         <value>XCUIElementTypeStaticText</value>
+         <key>CUSTOM</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>XPATH</locatorStrategy>

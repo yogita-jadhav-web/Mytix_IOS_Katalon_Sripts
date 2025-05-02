@@ -21,7 +21,7 @@ Mobile.verifyElementExist(findTestObject('IOS/Onboarding_screen_object_repositor
 
 Mobile.verifyElementExist(findTestObject('IOS/Onboarding_screen_object_repository/XCUIElementTypeStaticText - Enable Location'), 0)
 
-Welcome_Text = Mobile.getText(findTestObject('IOS/Onboarding_screen_object_repository/XCUIElementTypeStaticText - Weve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup'), 
+Welcome_Text = Mobile.getText(findTestObject('IOS/Onboarding_screen_object_repository/XCUIElementTypeStaticText - Weve sent a security code to your email address'), 
     0)
 
 println('Welcome_Text : ' + Welcome_Text)

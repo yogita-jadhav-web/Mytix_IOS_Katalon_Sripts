@@ -24,7 +24,7 @@ println('Confirm Your Account : ' + confirm_acc_text)
 
 WebUI.comment('Confirm Your Account : ' + confirm_acc_text)
 
-security_text = Mobile.getText(findTestObject('IOS/Create_account_object_repository/XCUIElementTypeStaticText - Weve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup'), 
+security_text = Mobile.getText(findTestObject('IOS/Create_account_object_repository/XCUIElementTypeStaticText - Weve sent a security code to your email address'), 
     0)
 
 println('security_text : ' + security_text)

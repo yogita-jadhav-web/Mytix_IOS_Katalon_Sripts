@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-For_verification_purposes_Text = Mobile.getText(findTestObject('IOS/change_password_object_repositary/XCUIElementTypeStaticText - For verification purposes, a security code was sent to your email. Please enter the security code below'), 
+For_verification_purposes_Text = Mobile.getText(findTestObject('IOS/change_password_object_repositary/XCUIElementTypeStaticText - For verification purposes'), 
     0)
 
 println('For verification purposes_Text : ' + For_verification_purposes_Text)

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeStaticText - Weve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup</name>
+   <name>XCUIElementTypeStaticText - Weve sent a security code to your email address</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -122,16 +122,22 @@
          <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[2]</value>
       </entry>
       <entry>
+         <key>ACCESSIBILITY</key>
+         <value>We've sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.</value>
+      </entry>
+      <entry>
          <key>IOS_CLASS_CHAIN</key>
          <value>**/XCUIElementTypeStaticText[`enabled == 1 AND label == 'We've sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.' AND name == 'We've sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.' AND value == 'We've sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.'`]</value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = concat(&quot;We&quot; , &quot;'&quot; , &quot;ve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.&quot;) and @name = concat(&quot;We&quot; , &quot;'&quot; , &quot;ve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.&quot;) and @value = concat(&quot;We&quot; , &quot;'&quot; , &quot;ve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.&quot;)]</value>
+         <key>NAME</key>
+         <value>We've sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
       </entry>
       <entry>
          <key>IMAGE</key>
-         <value></value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
@@ -142,24 +148,14 @@
          <value>We've sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.</value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
-         <value></value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = concat(&quot;We&quot; , &quot;'&quot; , &quot;ve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.&quot;) and @name = concat(&quot;We&quot; , &quot;'&quot; , &quot;ve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.&quot;) and @value = concat(&quot;We&quot; , &quot;'&quot; , &quot;ve sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.&quot;)]</value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-         <value></value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value>We've sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value>We've sent a security code to your email address. Please check your inbox and enter the code below to complete your account setup.</value>
+         <key>CUSTOM</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

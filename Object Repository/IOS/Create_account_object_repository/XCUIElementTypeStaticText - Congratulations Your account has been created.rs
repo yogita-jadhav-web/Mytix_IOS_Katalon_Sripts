@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeStaticText - Congratulations Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help</name>
+   <name>XCUIElementTypeStaticText - Congratulations Your account has been created</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -114,52 +114,48 @@
    <locator>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' and @name = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' and @value = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.']</locator>
    <locatorCollection>
       <entry>
-         <key>ACCESSIBILITY</key>
-         <value>Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeStaticText' AND enabled == 1 AND label == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' AND name == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' AND name == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.'</value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeStaticText[`enabled == 1 AND label == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' AND name == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' AND value == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.'`]</value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' and @name = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' and @value = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.']</value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value>Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[2]</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>XCUIElementTypeStaticText</value>
       </entry>
       <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeStaticText[`enabled == 1 AND label == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' AND name == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' AND value == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.'`]</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.</value>
+      </entry>
+      <entry>
          <key>ANDROID_VIEWTAG</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND enabled == 1 AND label == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' AND name == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' AND name == 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.'</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>ID</key>
          <value>Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' and @name = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.' and @value = 'Congratulations! Your account has been created. You can now explore custom options and favorites. If you have any questions, our support team is here to help.']</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

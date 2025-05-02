@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeStaticText - For verification purposes, a security code was sent to your email. Please enter the security code below</name>
+   <name>XCUIElementTypeStaticText - For verification purposes</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -114,44 +114,20 @@
    <locator>//*[@type = 'XCUIElementTypeStaticText' and @label = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' and @name = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' and @value = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ']</locator>
    <locatorCollection>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' and @name = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' and @value = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ']</value>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[2]</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
          <value>For verification purposes, a security code was sent to your email. Please enter the security code below. </value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>XCUIElementTypeStaticText</value>
-      </entry>
-      <entry>
          <key>IOS_CLASS_CHAIN</key>
          <value>**/XCUIElementTypeStaticText[`enabled == 1 AND label == 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' AND name == 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' AND value == 'For verification purposes, a security code was sent to your email. Please enter the security code below. '`]</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeStaticText' AND enabled == 1 AND label == 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' AND name == 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' AND name == 'For verification purposes, a security code was sent to your email. Please enter the security code below. '</value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>For verification purposes, a security code was sent to your email. Please enter the security code below. </value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[2]</value>
       </entry>
       <entry>
          <key>NAME</key>
@@ -159,7 +135,27 @@
       </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND enabled == 1 AND label == 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' AND name == 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' AND name == 'For verification purposes, a security code was sent to your email. Please enter the security code below. '</value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>For verification purposes, a security code was sent to your email. Please enter the security code below. </value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' and @name = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ' and @value = 'For verification purposes, a security code was sent to your email. Please enter the security code below. ']</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
