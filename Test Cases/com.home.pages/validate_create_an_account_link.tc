@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_create_an_account_link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09c3ecf9-c449-4447-9efd-5d8aa54d9d11</testCaseGuid>
+</TestCaseEntity>

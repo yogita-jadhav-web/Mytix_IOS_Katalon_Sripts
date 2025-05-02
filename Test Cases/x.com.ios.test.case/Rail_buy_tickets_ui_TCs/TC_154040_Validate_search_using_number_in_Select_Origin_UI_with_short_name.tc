@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154040_Validate_search_using_number_in_Select_Origin_UI_with_short_name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0d24c12-f235-4c1c-bd7f-00185f05350a</testCaseGuid>
+</TestCaseEntity>

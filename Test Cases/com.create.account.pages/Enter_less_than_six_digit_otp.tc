@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_less_than_six_digit_otp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46b4e8c1-3ae6-4e22-bbc8-58efc661f5ed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122021_To_verify_the_New_User_Registration_with_Email_is_in_Lower_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0652d509-3bbd-4c37-9edb-8da4ee75e32b</testCaseGuid>
+</TestCaseEntity>

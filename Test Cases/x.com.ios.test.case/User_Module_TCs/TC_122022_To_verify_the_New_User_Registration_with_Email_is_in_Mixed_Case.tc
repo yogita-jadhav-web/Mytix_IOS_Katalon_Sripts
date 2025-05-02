@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122022_To_verify_the_New_User_Registration_with_Email_is_in_Mixed_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f3732b3-f127-4d6b-9c5a-526603cbda29</testCaseGuid>
+</TestCaseEntity>

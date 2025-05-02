@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152360_To_Verifiy_the_onboarding_screen_UI_Layout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d2ccf15-bc3a-4ae6-afe4-c468c6d52902</testCaseGuid>
+</TestCaseEntity>

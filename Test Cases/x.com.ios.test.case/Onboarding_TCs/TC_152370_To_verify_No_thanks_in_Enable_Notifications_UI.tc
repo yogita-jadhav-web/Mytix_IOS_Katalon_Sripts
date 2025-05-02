@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152370_To_verify_No_thanks_in_Enable_Notifications_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d0b84ba-55e6-47e0-b084-efad22b3fc9f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_Light_Rail_Icon_and_Text</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10dc60e9-f860-4af6-a011-f372e7f677cb</testCaseGuid>
+</TestCaseEntity>

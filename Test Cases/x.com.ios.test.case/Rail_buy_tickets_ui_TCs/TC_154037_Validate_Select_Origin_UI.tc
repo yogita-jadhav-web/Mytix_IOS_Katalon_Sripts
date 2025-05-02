@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154037_Validate_Select_Origin_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cd1f03e-ccf6-48c4-a09c-b5f87f8a9501</testCaseGuid>
+</TestCaseEntity>

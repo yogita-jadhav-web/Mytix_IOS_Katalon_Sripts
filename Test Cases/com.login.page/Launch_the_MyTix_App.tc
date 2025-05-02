@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch_the_MyTix_App</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>936d50b0-74b1-40fa-b5a6-88b1491d95ea</testCaseGuid>
+</TestCaseEntity>

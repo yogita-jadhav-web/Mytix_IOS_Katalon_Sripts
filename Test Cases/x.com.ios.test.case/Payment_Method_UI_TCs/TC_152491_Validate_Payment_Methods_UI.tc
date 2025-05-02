@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152491_Validate_Payment_Methods_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c8ed41c-8b8e-4365-abe4-4154a1538c46</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>XCUIElementTypeStaticText - Welcome to the new NJ TRANSIT Mobile App Onboarding</name>
+   <tag></tag>
+   <elementGuidId>98a95511-8b17-4f5e-b8b1-b4dce8caca99</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>XCUIElementTypeStaticText</value>
+      <webElementGuid>c0119f1b-e521-4c03-af7d-3e8cdce192dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accessible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a0d38249-f709-4205-a53f-03cb932b177d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3dde6110-3919-4106-8dd7-551187c2af6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>126.0</value>
+      <webElementGuid>e4ddd8f3-51cc-4e3c-9080-e3450f02212d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>2e89561e-1348-4182-8b12-1e8c1a832ef2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Welcome to the new NJ TRANSIT Mobile App Onboarding!</value>
+      <webElementGuid>d5193680-8341-4996-a48d-eac3f3ac32aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Welcome to the new NJ TRANSIT Mobile App Onboarding!</value>
+      <webElementGuid>c7d40031-bdaf-4466-bb49-40e13b3f7d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Welcome to the new NJ TRANSIT Mobile App Onboarding!</value>
+      <webElementGuid>4ae595e6-80b4-4391-942c-de1f03c57ab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>visible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>58cb1c55-2afa-463d-8f0d-f1efb9734d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>396.0</value>
+      <webElementGuid>1befb891-d5ee-4867-bb6e-edaa0ae72b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>192.0</value>
+      <webElementGuid>b37d9285-1bb8-4d1d-9f67-1706c1598ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>486.0</value>
+      <webElementGuid>5d09cefe-89be-423e-9901-a82f75e9aa9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[1]</value>
+      <webElementGuid>da0c1887-4c4a-4046-b430-350a126eccb4</webElementGuid>
+   </webElementProperties>
+   <locator>Welcome to the new NJ TRANSIT Mobile App Onboarding!</locator>
+   <locatorCollection>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>XCUIElementTypeStaticText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[1]</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**/XCUIElementTypeStaticText[`enabled == 1 AND label == 'Welcome to the new NJ TRANSIT Mobile App Onboarding!' AND name == 'Welcome to the new NJ TRANSIT Mobile App Onboarding!' AND value == 'Welcome to the new NJ TRANSIT Mobile App Onboarding!'`]</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'Welcome to the new NJ TRANSIT Mobile App Onboarding!' and @name = 'Welcome to the new NJ TRANSIT Mobile App Onboarding!' and @value = 'Welcome to the new NJ TRANSIT Mobile App Onboarding!']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>type == 'XCUIElementTypeStaticText' AND enabled == 1 AND label == 'Welcome to the new NJ TRANSIT Mobile App Onboarding!' AND name == 'Welcome to the new NJ TRANSIT Mobile App Onboarding!' AND name == 'Welcome to the new NJ TRANSIT Mobile App Onboarding!'</value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>Welcome to the new NJ TRANSIT Mobile App Onboarding!</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().enabled(true).index(2)</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value>Welcome to the new NJ TRANSIT Mobile App Onboarding!</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Welcome to the new NJ TRANSIT Mobile App Onboarding!</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ACCESSIBILITY</locatorStrategy>
+   <platform>IOS</platform>
+</MobileElementEntity>

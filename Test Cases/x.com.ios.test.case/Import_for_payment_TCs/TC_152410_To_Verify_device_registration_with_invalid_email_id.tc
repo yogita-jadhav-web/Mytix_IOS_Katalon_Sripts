@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152410_To_Verify_device_registration_with_invalid_email_id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8aa6f49-c7a4-46c9-a2ad-ff4db99f47ac</testCaseGuid>
+</TestCaseEntity>

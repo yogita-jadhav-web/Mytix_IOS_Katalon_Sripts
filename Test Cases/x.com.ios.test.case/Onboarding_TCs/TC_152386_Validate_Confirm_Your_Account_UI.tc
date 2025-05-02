@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152386_Validate_Confirm_Your_Account_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ff78c75-1b4e-42da-b0f3-e22040f2a887</testCaseGuid>
+</TestCaseEntity>

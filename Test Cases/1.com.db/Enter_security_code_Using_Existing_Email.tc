@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_security_code_Using_Existing_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4f1764f-cab3-49cc-89dd-550a7775f0f8</testCaseGuid>
+</TestCaseEntity>

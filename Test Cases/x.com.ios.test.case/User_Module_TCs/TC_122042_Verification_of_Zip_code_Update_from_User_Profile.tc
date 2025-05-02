@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122042_Verification_of_Zip_code_Update_from_User_Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>307c643a-99b1-41e5-b1c4-187a47d192ef</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_Icons_are_Aligned_in_the_Middle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d3e6a64-eacc-4ce9-b18a-946eba3017cd</testCaseGuid>
+</TestCaseEntity>

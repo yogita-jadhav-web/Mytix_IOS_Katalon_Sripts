@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_rail_bus_light_rail_Icons</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33cc940c-1e85-4f52-beb5-e4c1134e5393</testCaseGuid>
+</TestCaseEntity>

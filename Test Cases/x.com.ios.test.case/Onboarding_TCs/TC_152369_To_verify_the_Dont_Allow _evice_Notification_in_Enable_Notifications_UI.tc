@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152369_To_verify_the_Dont_Allow _evice_Notification_in_Enable_Notifications_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a687f2f8-3222-4bac-a621-d84cb8b96707</testCaseGuid>
+</TestCaseEntity>

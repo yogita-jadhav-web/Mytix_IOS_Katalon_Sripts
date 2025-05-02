@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_Welcom_text_on_onboarding_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea89ba6b-20a6-4243-9c3e-b5197e4a8713</testCaseGuid>
+</TestCaseEntity>

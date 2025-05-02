@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_on_create_account_link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4141d064-9038-4d96-8fd6-fb5c1a4a85b9</testCaseGuid>
+</TestCaseEntity>

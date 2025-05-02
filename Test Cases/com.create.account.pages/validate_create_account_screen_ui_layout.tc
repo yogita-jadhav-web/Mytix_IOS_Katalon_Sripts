@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_create_account_screen_ui_layout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a5253aa-ffdc-4de8-9dbf-f101a72bafb4</testCaseGuid>
+</TestCaseEntity>

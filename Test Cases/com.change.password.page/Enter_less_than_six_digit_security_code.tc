@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_less_than_six_digit_security_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6db6fb2e-f5e7-4759-8768-1a4237b4263d</testCaseGuid>
+</TestCaseEntity>

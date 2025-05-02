@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_User_should_be_navigated_to_Buy_Tickets_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0af89ba-d81e-4783-b64a-b52e55177f77</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_blue_backdrop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f9a6ea6-d0f1-4cb4-b730-dfc195dcb75d</testCaseGuid>
+</TestCaseEntity>

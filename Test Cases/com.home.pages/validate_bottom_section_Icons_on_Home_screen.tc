@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_bottom_section_Icons_on_Home_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0053991c-aabf-446f-9193-5215d3144aae</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_Getting_started_in_Onboarding_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b995fc07-52dd-4a06-b6c1-4eda96af2359</testCaseGuid>
+</TestCaseEntity>

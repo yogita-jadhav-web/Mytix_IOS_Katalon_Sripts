@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_where_are_u_going_text</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0ee7822-cc80-4f9d-be15-fe6c9cf0d04e</testCaseGuid>
+</TestCaseEntity>

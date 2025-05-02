@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Random_Email_is_in_Lowercase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cae90b34-0808-48a7-8704-c6a5c3917c47</testCaseGuid>
+</TestCaseEntity>

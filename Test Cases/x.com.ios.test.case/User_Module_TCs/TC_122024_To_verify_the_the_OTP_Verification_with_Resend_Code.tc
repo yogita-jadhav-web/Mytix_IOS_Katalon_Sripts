@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122024_To_verify_the_the_OTP_Verification_with_Resend_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9765894e-834d-4d1f-9100-b12544aeb930</testCaseGuid>
+</TestCaseEntity>

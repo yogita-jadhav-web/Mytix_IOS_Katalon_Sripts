@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152378_To_verify_Light_Rail_and_Rail_option_in_Set_Your_Preferences_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>162c4b45-ee67-40a5-b01d-427d4d0f06dc</testCaseGuid>
+</TestCaseEntity>

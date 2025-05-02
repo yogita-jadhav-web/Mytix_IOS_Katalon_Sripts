@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_security_code_Using_Random_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9811699b-fe65-4ee8-a26d-47129eb824e9</testCaseGuid>
+</TestCaseEntity>

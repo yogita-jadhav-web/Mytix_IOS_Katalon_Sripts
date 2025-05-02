@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152366_To_verify_the_Dont_Allow_Location_in_Enable_Location_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79df6013-a1dd-4d59-a90b-b9391e70599f</testCaseGuid>
+</TestCaseEntity>

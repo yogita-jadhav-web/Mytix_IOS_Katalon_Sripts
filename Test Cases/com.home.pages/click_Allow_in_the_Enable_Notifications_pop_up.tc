@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_Allow_in_the_Enable_Notifications_pop_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52cadec8-0ed3-47dc-91e5-2240cbedf12b</testCaseGuid>
+</TestCaseEntity>

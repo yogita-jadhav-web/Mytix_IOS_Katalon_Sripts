@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122018_To_verify_the_New_User_Registration_Field_validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f387b38-860c-4c9c-89ff-1a20ec157c41</testCaseGuid>
+</TestCaseEntity>

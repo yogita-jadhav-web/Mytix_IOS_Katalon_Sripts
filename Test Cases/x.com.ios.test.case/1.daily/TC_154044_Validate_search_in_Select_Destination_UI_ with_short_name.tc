@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154044_Validate_search_in_Select_Destination_UI_ with_short_name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2a2743b-e4a8-46c1-9955-ccb622811dc4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154034_Select_Buy_in_Home_UI_After_Sign_In</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8674e35a-d9f8-4ba6-b412-a46edd057554</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154042_Validate_Select_Destination_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08b65709-3d7b-4c7a-916e-69f9abbea8a1</testCaseGuid>
+</TestCaseEntity>

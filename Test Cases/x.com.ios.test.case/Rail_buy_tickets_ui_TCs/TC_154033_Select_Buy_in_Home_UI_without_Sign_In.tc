@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154033_Select_Buy_in_Home_UI_without_Sign_In</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42dbbf90-1d63-4c19-841f-7b09439609ca</testCaseGuid>
+</TestCaseEntity>

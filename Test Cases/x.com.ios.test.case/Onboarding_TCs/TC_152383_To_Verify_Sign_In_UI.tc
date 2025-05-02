@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152383_To_Verify_Sign_In_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8076af2a-bfe0-47e5-b236-0d3574af7b32</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152368_To_verify_Allow_Notification_device_pop_up_in_Enable_Notifications_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eef46760-5d75-4fb5-8ab8-3ae6c55743a3</testCaseGuid>
+</TestCaseEntity>

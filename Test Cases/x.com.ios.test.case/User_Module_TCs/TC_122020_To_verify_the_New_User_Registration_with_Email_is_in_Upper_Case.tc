@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122020_To_verify_the_New_User_Registration_with_Email_is_in_Upper_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>817ceb38-4745-4c27-b75f-25b5a2690bb6</testCaseGuid>
+</TestCaseEntity>

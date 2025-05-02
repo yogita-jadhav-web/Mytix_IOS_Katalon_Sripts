@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_Tickets_section_in_home_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc5335f9-ed54-46d4-9cfb-54aa1b2d8a8b</testCaseGuid>
+</TestCaseEntity>

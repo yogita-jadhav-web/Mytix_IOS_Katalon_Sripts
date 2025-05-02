@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_text_Are you sure you want to sign out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfd9fe75-9c87-4952-b63f-fa65ff016685</testCaseGuid>
+</TestCaseEntity>

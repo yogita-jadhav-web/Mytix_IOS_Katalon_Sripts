@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_on_Allow_notificaton_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de2934bf-1c57-4277-a95c-a07d8ac14d58</testCaseGuid>
+</TestCaseEntity>

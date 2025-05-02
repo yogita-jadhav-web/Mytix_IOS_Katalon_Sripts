@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_on_Allow_while_using_app</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94fc3dc1-e250-4d9e-9e01-d6085d3f32f3</testCaseGuid>
+</TestCaseEntity>

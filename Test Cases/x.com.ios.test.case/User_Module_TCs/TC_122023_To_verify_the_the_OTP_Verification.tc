@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122023_To_verify_the_the_OTP_Verification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58266ea5-f19d-4306-be7f-2906518b186a</testCaseGuid>
+</TestCaseEntity>

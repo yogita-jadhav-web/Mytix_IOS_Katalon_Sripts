@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152367_To_verify_the_Enable_Notifications_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b94bc7d0-4775-486b-803d-eddeabfa76d8</testCaseGuid>
+</TestCaseEntity>

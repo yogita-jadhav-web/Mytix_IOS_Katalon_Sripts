@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_meanu_Icons_on_Home_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e79017d-1a11-42a1-9dd0-fa8f8ad2c637</testCaseGuid>
+</TestCaseEntity>

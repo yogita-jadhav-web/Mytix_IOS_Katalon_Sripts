@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verification_of_Check_Your_Email_Screen_Security_Code_Validation - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61def67d-16c8-4985-9f4b-e4c4d759b697</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154035_Validate_Buy_Tickets_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce4c7469-72d7-4202-a90b-b84e58e2bbde</testCaseGuid>
+</TestCaseEntity>

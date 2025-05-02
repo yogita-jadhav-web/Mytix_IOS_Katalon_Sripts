@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Random_Email_is_in_Uppercase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b671c8d3-ef47-4d95-ad7c-fe187518b8bf</testCaseGuid>
+</TestCaseEntity>

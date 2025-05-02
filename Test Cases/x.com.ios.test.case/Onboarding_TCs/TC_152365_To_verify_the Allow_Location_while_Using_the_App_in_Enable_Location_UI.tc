@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152365_To_verify_the Allow_Location_while_Using_the_App_in_Enable_Location_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d7274a7-c5af-4efb-92a4-7954a2d96f56</testCaseGuid>
+</TestCaseEntity>
