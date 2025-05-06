@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_select_tickets_ui</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75224e6e-0d52-4c6a-99e7-2acef452e0a4</testCaseGuid>
+</TestCaseEntity>

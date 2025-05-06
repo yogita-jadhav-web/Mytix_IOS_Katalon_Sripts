@@ -69,6 +69,12 @@ class EmailUtils {
 			case "special characters":
 				return "${localPart}!#\$%^&*()@${domain}.${tld}"
 
+			case "uppercase":
+				return "${localPart.toUpperCase()}@${domain.toUpperCase()}.${tld.toUpperCase()}"
+
+			case "lowercase":
+				return "${localPart.toLowerCase()}@${domain.toLowerCase()}.${tld.toLowerCase()}"
+
 			default:
 				return "${localPart}@${domain}.${tld}" // fallback valid email
 		}

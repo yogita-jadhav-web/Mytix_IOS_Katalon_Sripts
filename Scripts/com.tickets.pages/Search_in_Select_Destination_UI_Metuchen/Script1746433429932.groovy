@@ -24,10 +24,12 @@ Mobile.verifyElementText(findTestObject('Object Repository/IOS/Rail_Select_origi
     'Search')
 
 Mobile.setText(findTestObject('Object Repository/IOS/Rail_Select_origin_object_repository/XCUIElementTypeTextField - Search'), 
-    'newark', 0)
+    'Metuchen', 0)
 
 Mobile.sendKeys(findTestObject('IOS/Rail_Select_origin_object_repository/XCUIElementTypeImage - Search'), Keys.chord(Keys.ENTER), 
     FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('IOS/Rail_Select_origin_object_repository/XCUIElementTypeStaticText - METUCHEN'), 0)
 
 WebUI.comment('Related station are displayed in All Train Stations')
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_one_way_multiple_times</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e94e5378-6bac-401b-82d7-97ae849f218f</testCaseGuid>
+</TestCaseEntity>

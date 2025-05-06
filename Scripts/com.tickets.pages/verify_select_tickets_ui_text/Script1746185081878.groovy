@@ -17,23 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.login.page/start_application'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.login.page/complete_the_onboarding'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.home.pages/click_on_Sign_In_Link'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.sign.in.pages/Enter_Sign_In_Credentials_Exsting_User'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.tickets.pages/Click_Buy_button'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.tickets.pages/Click_Rail_Icon_and_Text'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.tickets.pages/Click_on_select_origin_option'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.tickets.pages/validate_select_Destination_UI'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.tickets.pages/Validate_search_in_Select_Origin_UI'), [:], FailureHandling.STOP_ON_FAILURE)
-
-Mobile.closeApplication()
+Mobile.verifyElementText(findTestObject('Object Repository/IOS/Tickets_object_repository/XCUIElementTypeStaticText - Select Tickets'), 
+    'Select Tickets')
 

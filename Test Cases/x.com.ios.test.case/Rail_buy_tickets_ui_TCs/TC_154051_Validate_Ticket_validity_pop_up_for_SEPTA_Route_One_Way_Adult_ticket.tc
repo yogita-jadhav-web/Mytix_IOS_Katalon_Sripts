@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154051_Validate_Ticket_validity_pop_up_for_SEPTA_Route_One_Way_Adult_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e4e0e96-bbe0-4623-badc-0308a0e6386b</testCaseGuid>
+</TestCaseEntity>

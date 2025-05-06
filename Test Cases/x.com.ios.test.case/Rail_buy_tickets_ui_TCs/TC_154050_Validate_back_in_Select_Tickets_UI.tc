@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154050_Validate_back_in_Select_Tickets_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34450629-28a8-429e-bb54-2abc21d30855</testCaseGuid>
+</TestCaseEntity>

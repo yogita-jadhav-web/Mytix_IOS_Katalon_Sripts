@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154060_Validate_Ticket_validity_pop_up_for_Route_other_than_SEPTA_for_Round_Trip_Adult_ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2cbcffe4-3603-4e6d-ba06-bf02d0fd364d</testCaseGuid>
+</TestCaseEntity>

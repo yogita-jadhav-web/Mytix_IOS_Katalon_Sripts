@@ -28,6 +28,5 @@ public class MessageValidator {
 		def testData = findTestData("Data Files/Excel_Files/App_Validation_Mesg")
 		def expectedMessage = testData.getValue("Expected_Message", Message_ID)
 		return expectedMessage
-		
 	}
 }

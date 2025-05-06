@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154046_Validate_back_in_Select_Destination_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1bdd116d-795b-4755-9a13-834b9a7ee046</testCaseGuid>
+</TestCaseEntity>

@@ -23,6 +23,8 @@ WebUI.callTestCase(findTestCase('com.login.page/complete_the_onboarding'), [:], 
 
 WebUI.callTestCase(findTestCase('com.home.pages/click_on_create_account_link'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('com.create.account.pages/verify_account_info_popup'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.callTestCase(findTestCase('com.create.account.pages/validate_create_account_screen'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.create.account.pages/Enter_Random_Email'), [:], FailureHandling.STOP_ON_FAILURE)
@@ -38,8 +40,6 @@ WebUI.callTestCase(findTestCase('com.home.pages/click_on_submit_button'), [:], F
 WebUI.callTestCase(findTestCase('com.create.account.pages/validate_email_verification_popup'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.create.account.pages/click_on_Yes_on_popup'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.create.account.pages/validate_confirm_your_acc_text'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.create.account.pages/Enter_security_code_Using_Random_Email'), [:], FailureHandling.STOP_ON_FAILURE)
 

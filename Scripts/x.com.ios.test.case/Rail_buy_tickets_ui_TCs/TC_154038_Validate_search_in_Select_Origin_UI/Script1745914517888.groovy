@@ -29,7 +29,7 @@ WebUI.callTestCase(findTestCase('com.tickets.pages/Click_Buy_button'), [:], Fail
 
 WebUI.callTestCase(findTestCase('com.tickets.pages/Click_Rail_Icon_and_Text'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.tickets.pages/Validate_search_in_Select_Origin_UI'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.tickets.pages/Validate_search_in_Select_Origin_UI_newark'), [:], FailureHandling.STOP_ON_FAILURE)
 
 Mobile.closeApplication()
 

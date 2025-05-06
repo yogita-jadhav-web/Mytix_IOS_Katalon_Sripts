@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_select_Origin_UI_text</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d708b85-b0bd-4c31-a24f-85124a24954d</testCaseGuid>
+</TestCaseEntity>

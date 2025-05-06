@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_The NJ TRANSIT portion of this joint ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fbceaf57-2c05-48f9-9755-07f922467e21</testCaseGuid>
+</TestCaseEntity>

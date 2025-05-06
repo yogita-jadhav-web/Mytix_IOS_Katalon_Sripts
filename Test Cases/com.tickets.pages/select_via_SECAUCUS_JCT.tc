@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_via_SECAUCUS_JCT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3547af5b-02b2-44cb-af15-3967e7e67d64</testCaseGuid>
+</TestCaseEntity>

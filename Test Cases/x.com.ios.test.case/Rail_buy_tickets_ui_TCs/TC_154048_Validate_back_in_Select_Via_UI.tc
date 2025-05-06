@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154048_Validate_back_in_Select_Via_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbaf6283-6c3b-4dd6-99db-ff1b8227f7dd</testCaseGuid>
+</TestCaseEntity>

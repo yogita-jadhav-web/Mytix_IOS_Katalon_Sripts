@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_search_in_Select_Origin_UI_30TH_ST_Phila</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5556b261-e3cd-4f65-9778-a4361840aed2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_select_Destination_UI_text</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b03e1f71-bdef-412e-8b4e-2c01b7f20e38</testCaseGuid>
+</TestCaseEntity>

@@ -17,12 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String Email = CustomKeywords.'kw_random.kw_Random.generate_Random_Email'()
+not_run: String Email = CustomKeywords.'kw_random.kw_Random.generate_Random_Email'()
 
- GlobalVariable.Random_Email=Email
+ String Email=CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('uppercase')
+
+GlobalVariable.Random_Email = Email
 
 Mobile.setText(findTestObject('Object Repository/IOS/Create_account_object_repository/XCUIElementTypeTextField - Email TextField'), 
     Email.toLowerCase(), 0)
 
-WebUI.comment('Email : '+Email)
-println('Email : '+Email)
+WebUI.comment('Email : ' + Email)
+
+println('Email : ' + Email)
+

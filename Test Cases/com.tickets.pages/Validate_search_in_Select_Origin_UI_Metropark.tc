@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_search_in_Select_Origin_UI_Metropark</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9e0f804-aec1-4bb4-8d21-899a2bac4575</testCaseGuid>
+</TestCaseEntity>
