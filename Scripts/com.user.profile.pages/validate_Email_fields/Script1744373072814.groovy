@@ -17,35 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
-TestObject Email_obj=findTestObject('Object Repository/IOS/Sign_In_object_repository/XCUIElementTypeTextField - Email TextField')
-String dynamicEmail = Mobile.getText(Email_obj, 0)
-
-String modifiedEmail = dynamicEmail.replaceAll('@', '')
-
-Mobile.setText(Email_obj, modifiedEmail, 0)
-
-println('Cleaned email: ' + modifiedEmail)
+CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('space in email')
 
 WebUI.callTestCase(findTestCase('com.user.profile.pages/click_on_update_my_profile_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.user.profile.pages/verify_Enter_a_valid_email'), [:], FailureHandling.STOP_ON_FAILURE)
 
-String cleanedEmail = dynamicEmail.replaceAll('\\.', '')
-Mobile.setText(Email_obj, cleanedEmail, 0)
+CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('missing tld')
+
 WebUI.callTestCase(findTestCase('com.user.profile.pages/click_on_update_my_profile_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.user.profile.pages/verify_Enter_a_valid_email'), [:], FailureHandling.STOP_ON_FAILURE)
 
-String ccEmail = dynamicEmail.replaceAll('cc$', '')
-Mobile.setText(Email_obj, ccEmail, 0)
+CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('missing @')
+
 WebUI.callTestCase(findTestCase('com.user.profile.pages/click_on_update_my_profile_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.user.profile.pages/verify_Enter_a_valid_email'), [:], FailureHandling.STOP_ON_FAILURE)
-
-String spaceEmail = dynamicEmail.replace('@', ' @')
-Mobile.setText(Email_obj, spaceEmail, 0)
-WebUI.callTestCase(findTestCase('com.user.profile.pages/click_on_update_my_profile_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.user.profile.pages/verify_Enter_a_valid_email'), [:], FailureHandling.STOP_ON_FAILURE)
 

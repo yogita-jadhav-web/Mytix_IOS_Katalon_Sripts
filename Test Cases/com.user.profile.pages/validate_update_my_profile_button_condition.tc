@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validate_update_my_profile_button_condition</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e67af47-c743-4423-bcf5-6b64d2f51a97</testCaseGuid>
+</TestCaseEntity>

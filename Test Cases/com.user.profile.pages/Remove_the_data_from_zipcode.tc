@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove_the_data_from_zipcode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94632e31-cd20-4b79-aa01-836c87ead25c</testCaseGuid>
+</TestCaseEntity>

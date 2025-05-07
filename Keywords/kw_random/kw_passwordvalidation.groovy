@@ -54,9 +54,9 @@ public class PasswordHelper  {
 		GlobalVariable.confirmPassword = confirmPassword
 		println('password :'+password)
 		println('confirmPassword :'+confirmPassword)
-		
+
 		Mobile.tap(findTestObject('Object Repository/IOS/change_password_object_repositary/XCUIElementTypeSecureTextField - New Password TextField'), 0)
-		
+
 		Mobile.setText(findTestObject('Object Repository/IOS/change_password_object_repositary/XCUIElementTypeSecureTextField - New Password TextField'),
 				password, 0)
 		Mobile.tap(findTestObject('Object Repository/IOS/change_password_object_repositary/XCUIElementTypeButton - Show'), 0)
@@ -66,8 +66,8 @@ public class PasswordHelper  {
 				confirmPassword, 0)
 		Mobile.tap(findTestObject('Object Repository/IOS/change_password_object_repositary/XCUIElementTypeButton - Show (1)'), 0)
 
-//		Mobile.sendKeys(findTestObject('Object Repository/IOS/change_password_object_repositary/XCUIElementTypeSecureTextField - Confirm Password'),
-//				Keys.chord(Keys.ENTER), FailureHandling.STOP_ON_FAILURE)
+		//		Mobile.sendKeys(findTestObject('Object Repository/IOS/change_password_object_repositary/XCUIElementTypeSecureTextField - Confirm Password'),
+		//				Keys.chord(Keys.ENTER), FailureHandling.STOP_ON_FAILURE)
 	}
 	@Keyword
 	static def enterPasswordOnly(int rowNum) {

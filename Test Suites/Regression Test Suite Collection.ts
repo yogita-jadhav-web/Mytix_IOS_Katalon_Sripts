@@ -27,15 +27,5 @@
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Use_Module_Test_Suite</testSuiteEntity>
       </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>QA</profileName>
-            <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Remote</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Rail_buy_tickets_UI_Test_Suite</testSuiteEntity>
-      </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

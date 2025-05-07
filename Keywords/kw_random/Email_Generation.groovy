@@ -40,44 +40,53 @@ class EmailUtils {
 		String localPart = firstName
 		String domain = "maildrop"
 		String tld = "cc"
+		String email = ""
 
 		switch (condition.toLowerCase().trim()) {
 			case "space in email":
-				return "${localPart} @${domain}.${tld}"
-
+				email = "${localPart} @${domain}.${tld}"
+				break
 			case "missing tld":
-				return "${localPart}@${domain}"
-
+				email = "${localPart}@${domain}"
+				break
 			case "missing @":
-				return "${localPart}${domain}.${tld}"
-
+				email = "${localPart}${domain}.${tld}"
+				break
 			case "domain missing":
-				return "${localPart}@"
-
+				email = "${localPart}@"
+				break
 			case "double @":
-				return "${localPart}@@${domain}.${tld}"
-
+				email = "${localPart}@@${domain}.${tld}"
+				break
 			case "domain without dot":
-				return "${localPart}@${domain}${tld}"
-
+				email = "${localPart}@${domain}${tld}"
+				break
 			case "space in domain":
-				return "${localPart}@${domain} ${tld}"
-
+				email = "${localPart}@${domain} ${tld}"
+				break
 			case "two @ symbols":
-				return "${localPart}@${domain}@${tld}"
-
+				email = "${localPart}@${domain}@${tld}"
+				break
 			case "special characters":
-				return "${localPart}!#\$%^&*()@${domain}.${tld}"
-
+				email = "${localPart}!#\$%^&*()@${domain}.${tld}"
+				break
 			case "uppercase":
-				return "${localPart.toUpperCase()}@${domain.toUpperCase()}.${tld.toUpperCase()}"
-
+				email = "${localPart.toUpperCase()}@${domain.toUpperCase()}.${tld.toUpperCase()}"
+				break
 			case "lowercase":
-				return "${localPart.toLowerCase()}@${domain.toLowerCase()}.${tld.toLowerCase()}"
-
+				email = "${localPart.toLowerCase()}@${domain.toLowerCase()}.${tld.toLowerCase()}"
+				break
 			default:
-				return "${localPart}@${domain}.${tld}" // fallback valid email
+				email = "${localPart}@${domain}.${tld}" // fallback valid email
+				break
 		}
+		// Save to global variable
+		GlobalVariable.Random_Email = email
+		println("Generated Email: " + email)
+		Mobile.setText(findTestObject('Object Repository/IOS/Create_account_object_repository/XCUIElementTypeTextField - Email TextField'),
+				email, 0)
+
+		return email
 	}
 }
 

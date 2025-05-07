@@ -21,17 +21,19 @@ WebUI.callTestCase(findTestCase('com.login.page/start_application'), [:], Failur
 
 WebUI.callTestCase(findTestCase('com.login.page/complete_the_onboarding'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.home.pages/click_on_Sign_In_Link'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.sign.in.pages/Enter_Sign_In_Credentials_Exsting_User'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.create.account.pages/create_new_user_account'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.home.pages/click_on_meanu_icon'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.user.profile.pages/click_on_user_profile_tab'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.user.profile.pages/click_on_update_my_profile_button'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.user.profile.pages/Remove_the_data_from_Email'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.user.profile.pages/verify_phone_number_cannot_be_empty'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.user.profile.pages/Remove_the_data_from_phone_number'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.user.profile.pages/Remove_the_data_from_zipcode'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.user.profile.pages/Remove_all_data_from_user_profile'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.user.profile.pages/verify_enter_a_valid_zip_code'), [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -23,7 +23,9 @@ WebUI.callTestCase(findTestCase('com.login.page/complete_the_onboarding'), [:], 
 
 WebUI.callTestCase(findTestCase('com.home.pages/click_on_create_account_link'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.create.account.pages/Enter_Random_Email_is_in_Uppercase'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.create.account.pages/verify_account_info_popup'), [:], FailureHandling.STOP_ON_FAILURE)
+
+CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('uppercase')
 
 CustomKeywords.'kw_random.PasswordHelper.getPasswordPair'(1)
 

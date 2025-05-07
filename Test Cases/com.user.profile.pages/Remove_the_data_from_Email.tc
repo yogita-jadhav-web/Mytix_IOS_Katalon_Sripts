@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove_the_data_from_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a98f249f-6b24-4ecd-8d82-37d3c97cb6e7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove_the_data_from_phone_number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>660030bd-41c8-411a-b2bd-c0cdf855f56e</testCaseGuid>
+</TestCaseEntity>
