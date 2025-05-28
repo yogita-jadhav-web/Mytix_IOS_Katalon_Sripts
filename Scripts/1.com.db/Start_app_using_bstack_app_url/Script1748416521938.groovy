@@ -17,13 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('1.com.db/Start_app_using_bstack_app_url'), [:], FailureHandling.STOP_ON_FAILURE)
+Mobile.startApplication(GlobalVariable.BrowserStackAppUrl, true)
 
-WebUI.callTestCase(findTestCase('com.login.page/Launch_the_MyTix_App'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.login.page/select_Getting_started_in_Onboarding_screen'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.login.page/click_on_getting_started_button'), [:], FailureHandling.STOP_ON_FAILURE)
-
-Mobile.closeApplication()
+WebUI.comment('MyTix App installation should be successful.')
 
